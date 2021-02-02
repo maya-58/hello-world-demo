@@ -3,4 +3,4 @@
 
 
 
-<u>BBSR.Live</u>
+<u>BBSR.Live</u>Managed by JT
